@@ -14,7 +14,7 @@ This repository documents a comprehensive Arabic text processing pipeline using 
    - **Text Cleaning:** Removed noise, irrelevant characters, and special symbols from the raw text data.
    - **Tokenization:** Segmented text into individual words or tokens, facilitating further analysis.
    - **Stop Words Removal:** Eliminated common stop words from the text to focus on meaningful content.
-   - **Discretization:** Processed text data to discretize numerical values or categorical variables as needed.
+   - **Diacritics Removal:** Stripped diacritics from Arabic text to standardize and simplify textual representations.
    - **Normalization:** Applied techniques like Unicode normalization, case normalization, and whitespace normalization to standardize text representations.
 
 4. **Stemming and Lemmatization Comparison:**
@@ -29,5 +29,7 @@ This repository documents a comprehensive Arabic text processing pipeline using 
 
 ## Conclusion
 
-Through this project, we gained insights into the complexities of Arabic text processing and the significance of employing appropriate NLP techniques. Lemmatization emerged as the preferred method over stemming due to its ability to maintain semantic coherence and enhance the accuracy of downstream NLP tasks. By leveraging advanced NLP techniques, we can unlock valuable insights and knowledge from Arabic text data, paving the way for applications in sentiment analysis, information extraction, and text summarization.
+This lab provided hands-on experience with various NLP techniques for Arabic text processing. It highlighted the importance of data acquisition, cleaning, and preparation before applying more advanced NLP methods. I compared stemming and lemmatization, understanding the trade-off between efficiency and semantic accuracy.
+
+This experience has broadened our understanding of the NLP tools available for Arabic text processing. By combining these techniques, I can extract valuable insights from Arabic web sources and unlock the potential of Arabic NLP for various applications.
 
