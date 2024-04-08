@@ -1,8 +1,8 @@
-# Lab1-Scraping-NLP-Pipeline-
+# Lab1-Scraping-NLP-Pipeline
 
 # Arabic Text Processing with NLP Techniques
 
-This repository documents a comprehensive Arabic text processing pipeline using various Natural Language Processing (NLP) techniques. The project encompasses data scraping from Arabic web sources, storing the raw data in a MongoDB NoSQL database, and implementing NLP tasks such as text cleaning, tokenization, stop words removal, discretization, and normalization.
+This repository documents a comprehensive Arabic text processing pipeline using various Natural Language Processing (NLP) techniques. The project encompasses data scraping from Arabic web sources, storing the raw data in a MongoDB NoSQL database, and implementing NLP tasks such as text cleaning, tokenization, stop words removal and normalization.
 
 ## Project Overview
 
